@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6a237de649cd6de2bd0e39c1"
+  },
+  "placa": "NNN323",
+  "propietario": "JUAN",
+  "telefono": "3236587896",
+  "tipoVehiculo": "Carro",
+  "fechaEntrada": {
+    "$date": "2026-06-06T01:54:46.011Z"
+  },
+  "valorPagado": 1700,
+  "estado": "Fuera",
+  "__v": 0,
+  "fechaSalida": {
+    "$date": "2026-06-06T02:10:58.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2382777dc539d40774a7ea"
+  },
+  "placa": "NNN323",
+  "propietario": "JUAN",
+  "telefono": "3236985632",
+  "tipoVehiculo": "Carro",
+  "fechaEntrada": {
+    "$date": "2026-06-06T02:14:15.083Z"
+  },
+  "valorPagado": 100,
+  "estado": "Fuera",
+  "__v": 0,
+  "fechaSalida": {
+    "$date": "2026-06-06T02:14:20.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2394d87dc539d40774a7eb"
+  },
+  "placa": "XYZ789",
+  "propietario": "Carlos Mendoza",
+  "telefono": "3159998877",
+  "tipoVehiculo": "Carro",
+  "fechaEntrada": {
+    "$date": "2026-06-06T03:32:40.988Z"
+  },
+  "valorPagado": 200,
+  "estado": "Fuera",
+  "__v": 0,
+  "fechaSalida": {
+    "$date": "2026-06-06T03:34:07.914Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a23956b7dc539d40774a7ec"
+  },
+  "placa": "MNO569",
+  "propietario": "Daniel Perez",
+  "telefono": "3265897596",
+  "tipoVehiculo": "Moto",
+  "fechaEntrada": {
+    "$date": "2026-06-06T03:35:07.751Z"
+  },
+  "valorPagado": 100,
+  "estado": "Fuera",
+  "__v": 0,
+  "fechaSalida": {
+    "$date": "2026-06-06T03:35:24.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2397947dc539d40774a7ed"
+  },
+  "placa": "XYZ789",
+  "propietario": "Carlos Mendoza",
+  "telefono": "3159998877",
+  "tipoVehiculo": "Carro",
+  "fechaEntrada": {
+    "$date": "2026-06-06T03:44:20.658Z"
+  },
+  "valorPagado": 200,
+  "estado": "Fuera",
+  "__v": 0,
+  "fechaSalida": {
+    "$date": "2026-06-06T03:45:33.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a23980d7dc539d40774a7ee"
+  },
+  "placa": "WRR569",
+  "propietario": "Maria Cardona",
+  "telefono": "3258798658",
+  "tipoVehiculo": "Carro",
+  "fechaEntrada": {
+    "$date": "2026-06-06T03:46:21.872Z"
+  },
+  "valorPagado": 100,
+  "estado": "Fuera",
+  "__v": 0,
+  "fechaSalida": {
+    "$date": "2026-06-06T03:46:35.034Z"
+  }
+}]
